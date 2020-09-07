@@ -6,9 +6,12 @@ After the whole video is processed, it will determine how often each part of the
 
 It runs on Google Colab with GPU at ~7 FPS.
 
-## Example video
+## Test video
   Free City Street Footage - Royalty Free Stock Footage - People Walking Stock Footage No Copyright
   https://www.youtube.com/watch?v=bwJ-TNu0hGM
+
+## Output video
+  https://www.youtube.com/watch?v=tI_9G5dkKkM
 
 ## Example of first the frame.
 ![First frame](/images/first.jpg)
